@@ -1,0 +1,9 @@
+{
+  "name": "PCえらび診断",
+  "short_name": "PC診断",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#2563eb",
+  "icons": []
+}

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fuma7587-del.github.io/pc-erabi/sitemap.xml
