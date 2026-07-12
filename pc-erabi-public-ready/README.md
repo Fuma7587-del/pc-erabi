@@ -27,7 +27,7 @@ python configure_site.py
 ```
 
 公開URLと、Web上に掲載してよいお問い合わせメールアドレスを入力してください。
-これにより `https://YOUR-DOMAIN.example` と `CONTACT_EMAIL` が一括置換されます。
+これにより `https://fuma7587-del.github.io/pc-erabi` と `rein7587@gmail.com` が一括置換されます。
 
 ### 2. ローカル確認
 `index.html` を開き、以下を確認します。
